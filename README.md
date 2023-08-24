@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Audumbar Nikat</h1>
 <h3 align="center">A passionate about frontend developer</h3>
 
-
-<img align="right" alt="coding" width="300" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnlNRFBWa19Za0ljR2FyU2N5SERRXzlSdHBVd3xBQ3Jtc0ttaG1MY1R0RjhmOGJzSjdLZUpMSG9Wbms2elJPT2FiaUltRTNoWThjSTVzSjhzNVY0ZWdhSVQ3V0FlYkktVE9WSUJkM0NSN0NvWEN5SkkycVd4eWVLZGhUYXg5T3hGRkt3R1p2alc2ZTVqR2NuOG1Bbw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
-
-
-
-
-
-
 - 📫 How to reach me **audumbarnikat2020@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HnZpaEmA59i_92PTX8_ixzMw_cln1JeD/view?usp=drive_link](https://drive.google.com/file/d/1HnZpaEmA59i_92PTX8_ixzMw_cln1JeD/view?usp=drive_link)
