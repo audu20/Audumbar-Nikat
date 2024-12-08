@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Audumbar Nikat</h1>
-<h3 align="center">A passionate about frontend developer</h3>
+<h3 align="center">A passionate about Python Developer, Data Analytics and Data Science</h3>
 
 - 📫 How to reach me **audumbarnikat2020@gmail.com**
 
