@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **audumbarnikat2020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HnZpaEmA59i_92PTX8_ixzMw_cln1JeD/view?usp=drive_link](https://drive.google.com/file/d/1HnZpaEmA59i_92PTX8_ixzMw_cln1JeD/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1EcVq2_dDzZJPz4oriNRyaoEonW6DL2Lc/view?usp=drivesdk).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
